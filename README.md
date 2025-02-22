@@ -5,7 +5,7 @@ Here's a step-by-step guide to using this code:
 
 1. Prerequisites:
 ```bash
-pip install google-cloud-aiplatform transformers torch
+pip install google-cloud-aiplatform transformers
 ```
 
 2. Authentication:
