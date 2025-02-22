@@ -15,12 +15,12 @@ pip install google-cloud-aiplatform transformers
 
 3. Implementation Steps:
 
-a. Model Deployment:
-- Package your model
-- Upload to Google Cloud Storage
+  a. Model Deployment:
+  - Package your model
+  - Upload to Google Cloud Storage
 - Deploy using Vertex AI endpoints
 
-b. Making Predictions:
-- Use the deployed endpoint
-- Send requests in the correct format
-- Process responses as needed
+  b. Making Predictions:
+  - Use the deployed endpoint
+  - Send requests in the correct format
+  - Process responses as needed
